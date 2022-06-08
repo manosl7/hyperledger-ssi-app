@@ -1,0 +1,28 @@
+{
+
+  "schema_issuer_did": "9kuRjPRsUPWBjCbUprXWUw",
+  "credential_proposal": {
+    "@type": "did:sov:BzCbsNYhMrjHiqZDTUASHg;spec/issue-credential/1.0/credential-preview",
+    "attributes": [
+      {
+        "name": "name",
+        "value": "John Jones"
+      },
+      {
+        "name": "date",
+        "value": "2017-07-12"
+      },
+      {
+        "name": "degree",
+        "value": "Physics"
+      },
+      {
+        "name": "average",
+        "value": "5"
+      }
+    ]
+  },
+  "issuer_did": "9kuRjPRsUPWBjCbUprXWUw",
+  "cred_def_id": "9kuRjPRsUPWBjCbUprXWUw:3:CL:96:default",
+  "connection_id": "9kuRjPRsUPWBjCbUprXWUw:3:CL:96:default"
+}

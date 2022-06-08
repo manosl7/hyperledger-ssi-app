@@ -1,0 +1,48 @@
+{
+  "connection_id": "2c48310b-b10e-4a33-8aea-0ceffb3d67db",
+  "proof_request": {
+    "name": "Proof of Education",
+    "version": "1.0",
+    "requested_attributes": {
+      "0_name_uuid": {
+        "name": "name",
+        "restrictions": [
+          {
+            "cred_def_id": "9kuRjPRsUPWBjCbUprXWUw:3:CL:96:default"
+          }
+        ]
+      },
+      "0_date_uuid": {
+        "name": "date",
+        "restrictions": [
+          {
+            "cred_def_id": "9kuRjPRsUPWBjCbUprXWUw:3:CL:96:default"
+          }
+        ]
+      },
+      "0_degree_uuid": {
+        "name": "degree",
+        "restrictions": [
+          {
+            "cred_def_id": "9kuRjPRsUPWBjCbUprXWUw:3:CL:96:default"
+          }
+        ]
+      },
+      "0_self_attested_thing_uuid": {
+        "name": "self_attested_thing"
+      }
+    },
+    "requested_predicates": {
+      "0_average_GE_uuid": {
+        "name": "average",
+        "p_type": ">=",
+        "p_value": 4,
+        "restrictions": [
+          {
+            "cred_def_id": "9kuRjPRsUPWBjCbUprXWUw:3:CL:96:default"
+          }
+        ]
+      }
+    }
+  }
+}
