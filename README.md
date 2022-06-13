@@ -57,25 +57,33 @@ cd hyperledger-ssi-app/demo/agents
 open three (3) more terminals in the same directory (One for each Agent). Start the first Agent Unipi by issuing the following command :
 
 cd hyperledger-ssi-app/demo/agents/UNIPI
+
 yarn install
+
 yarn start
 
 In the second terminal start Agent Manos by issuing the following command :
 
 cd hyperledger-ssi-app/demo/agents/Manos
+
 yarn install
+
 yarn start
 
 In the third terminal start Agent Nick by issuing the following command :
 
 cd hyperledger-ssi-app/demo/agents/Nick
+
 yarn install
+
 yarn start
 
 And last, in the last terminal start Agent IBM by issuing the command :
 
 cd hyperledger-ssi-app/demo/agents/IBM
+
 yarn install
+
 yarn start
 
 After doing all that go to your browser and check the running web applications of each agent in a seperate tab. 
