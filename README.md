@@ -1,4 +1,4 @@
-# Focked by kctam for a demonstration
+
 This is the forked version of Hyperledger Aries Cloud Agent - Python. This is for the demonstration in this [article](https://medium.com/@kctheservant/demonstration-of-hyperledger-aries-cloud-agent-6e476a5426b0?). Several demo files are modified. Please refer that article for the demo.
 
 
