@@ -26,11 +26,11 @@ After insalling and setting up all the prerequisites you have to open a new bash
 
 ./manage start
 
-Next open a new terminal and clone this repository with the command 
+Next open a new terminal and clone this repository with the command:
 
 git clone https://github.com/manosl7/hyperledger-ssi-app
 
-Then in the same terminal navigate to cloned repository with running the command:
+Then in the same terminal navigate to cloned repository by running the command:
 
 cd hyperledger-ssi-app/demo
 
@@ -50,11 +50,11 @@ And last, in the last terminal start Agent IBM by issuing the command :
 
 ./run_demo ibm
 
-The next step is to open new terminal window and the change dir to :
+The next step is to open new terminal window and then change dir to :
 
 cd hyperledger-ssi-app/demo/agents
 
-open three (3) more terminals in the same directory (One for each Agent). Start the first Agent Unipi by issuing the following command :
+open three (3) more terminals in the same directory (One for each Agent). Start the first Agent Unipi by issuing the following commands :
 
 cd hyperledger-ssi-app/demo/agents/UNIPI
 
@@ -62,7 +62,7 @@ yarn install
 
 yarn start
 
-In the second terminal start Agent Manos by issuing the following command :
+In the second terminal start Agent Manos by issuing the following commands :
 
 cd hyperledger-ssi-app/demo/agents/Manos
 
@@ -70,7 +70,7 @@ yarn install
 
 yarn start
 
-In the third terminal start Agent Nick by issuing the following command :
+In the third terminal start Agent Nick by issuing the following commands :
 
 cd hyperledger-ssi-app/demo/agents/Nick
 
@@ -78,7 +78,7 @@ yarn install
 
 yarn start
 
-And last, in the last terminal start Agent IBM by issuing the command :
+And last, in the last terminal start Agent IBM by issuing the commands :
 
 cd hyperledger-ssi-app/demo/agents/IBM
 
